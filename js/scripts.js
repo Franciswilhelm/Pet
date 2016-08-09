@@ -1,5 +1,12 @@
 $(document).ready(function() {
-    $(".clickable").click(function() {
-    $(".hide").toggle();
+  $("button#black").click(function() {
+    $("body").removeClass();
+    $("body").addClass("black-background");
   });
 });
+
+// $("button#white").click(function() {
+//   $("body").removeClass();
+//   $("body").addClass("white-background");
+//   });
+// });

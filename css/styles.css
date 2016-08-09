@@ -1,16 +1,7 @@
-.clickable {
-  cursor: pointer;
-  color: #0088cc;
+.black-background {
+  background-color: black;
 }
 
-p:hover {
-  text-decoration: underline;
-}
-
-.hide {
-  display: none;
-}
-
-.click {
-  display:
+.white-background {
+  background-color: white;
 }
